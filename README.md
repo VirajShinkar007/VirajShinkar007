@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Shinkar</h1>
 <h3 align="center">IT Engineering Student | Java & Web Developer |</h3>
-- 🌱 I’m currently learning **express.js**
 
 
 - 👨‍💻 All of my projects are available at **github**
