@@ -2,7 +2,7 @@
 <h3 align="center">IT Engineering Student | Java & Web Developer |</h3>
 
 
-- 👨‍💻 All of my projects are available at **github**
+- 👨‍💻 All of my projects are available on **github**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
