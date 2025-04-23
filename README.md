@@ -2,6 +2,9 @@
   Hi there, I'm Viraj Shinkar 👋
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;Java+%7C+React+%7C+Web+Dev;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
