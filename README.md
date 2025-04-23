@@ -1,26 +1,43 @@
--<h1 align="center">Hey 👋, I'm Viraj Shinkar</h1>
-<h3 align="center">🚀 IT Engineering Student | 💻 Full-Stack Developer | 📱 Android Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Viraj Shinkar</h1>
+<h3 align="center">🚀 IT Engineering Student | 💻 Full-Stack Developer | ⚛️ React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Developer%20👨‍💻;Web%20Developer%20🌐;React%20Enthusiast⚛️;Lifelong%20Learner%20📚;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Developer%20👨‍💻;Full-Stack%20Web%20Developer%20🌐;React%20Enthusiast%20⚛️;Lifelong%20Learner%20📚;&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **IT Engineering**
-- 🌱 I’m learning **Android Development** using Android Studio
-- 👨‍💻 Passionate about **Full-Stack Web Development** and solving **DSA problems**
-- 🛠️ Currently working with **React, Node.js, MongoDB, Java**
-- 🧠 Exploring **System Design**, **Kotlin**, and **API Integrations**
+Hi! I'm **Viraj Shinkar**, an aspiring software developer currently pursuing **Information Technology Engineering**. I have a passion for solving real-world problems through code and building efficient, scalable, and clean web applications.
+
+- 🎯 Focused on **Full-Stack Web Development** with modern tools and technologies
+- 💡 Always curious and love learning new things—currently exploring **advanced React patterns** and **System Design**
+- 🧠 Strong foundation in **Data Structures & Algorithms** using **Java**
+- 🤝 Open to collaboration on meaningful and challenging projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,androidstudio,vscode,github,git,postman" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -44,10 +61,10 @@
   A full-stack web app for managing hospital operations, patients, appointments, and billing.
 
 - 📺 **YouTube Clone**  
-  React-based clone using YouTube API with video search, view, and playback functionalities.
+  React-based project that mimics YouTube functionality using the YouTube API.
 
 - 📝 **Post Manager App**  
-  A state-managed React app using context and reducer to handle blog-style posts.
+  Blog-style React app using Context and Reducer for smooth state management.
 
 ---
 
@@ -64,4 +81,5 @@
 
 ---
 
-⭐ *Thanks for visiting! Star your favorite repositories and let's grow together.*
+⭐ *Thanks for visiting! Feel free to check out my repositories and connect with me!*
+
