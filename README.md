@@ -2,8 +2,9 @@
 <h3 align="center">🚀 IT Engineering Student | 💻 Full-Stack Developer | ⚛️ React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Developer%20👨‍💻;Full-Stack%20Web%20Developer%20🌐;React%20Enthusiast%20⚛️;Lifelong%20Learner%20📚;&center=true&width=500&height=45">
+  <img src="https://github.com/VirajShinkar/VirajShinkar/assets/your-image-id/animated-banner.gif" alt="Welcome Banner" />
 </p>
+
 
 ---
 
