@@ -42,18 +42,8 @@ Hi! I'm **Viraj Shinkar**, an aspiring software developer currently pursuing **I
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirajShinkar&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VirajShinkar&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajShinkar&layout=compact&theme=radical" height="165"/>
-</p>
-
----
+-
 
 ## 📂 Projects
 
