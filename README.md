@@ -70,7 +70,7 @@ Hi! I'm **Viraj Shinkar**, an aspiring software developer currently pursuing **I
   <a href="https://linkedin.com/in/viraj-shinkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:virajshinkar@gmail.com">
+  <a href="virajshinkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
