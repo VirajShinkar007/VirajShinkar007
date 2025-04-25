@@ -28,8 +28,9 @@ Hi! I'm **Viraj Shinkar**, an aspiring software developer currently pursuing **I
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,bootstrap" />
 </p>
+
 
 ### 🔧 Backend
 <p>
