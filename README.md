@@ -68,8 +68,7 @@ Hi! I'm **Viraj Shinkar**, an aspiring software developer currently pursuing **I
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href=" https://www.linkedin.com/in/viraj-shinkar-0847a52a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-" target="_blank">
+  <a href="https://www.linkedin.com/in/viraj-shinkar-0847a52a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="virajshinkar@gmail.com">
